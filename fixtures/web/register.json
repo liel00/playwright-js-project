@@ -1,0 +1,23 @@
+{
+    "validUser": {
+        "name": "John Daa",
+        "email": "johndaa338@test.com",
+        "password": "password338",
+        "dateOfBirth": {
+            "day": "15",
+            "month": "May",
+            "year": "1990"
+        },
+        "address": {
+            "firstName": "John",
+            "lastName": "Doe",
+            "company": "Test Company",
+            "address1": "123 Test Street",
+            "address2": "Suite 456",
+            "state": "California",
+            "city": "Los Angeles",
+            "zipcode": "90001",
+            "mobileNumber": "1234567890"
+        }
+    }
+}
